@@ -7,7 +7,7 @@ Responsive and clean user interface.
 Lightweight and fast, with no heavy dependencies.
 Easy-to-use: Just type a word and get synonyms instantly.
 
-#Project Structure:
+# Project Structure:
 
 ├── index.html          # Main HTML file
 
@@ -34,8 +34,10 @@ Open index.html in any web browser to run the application.
 
 Enter a word: Type any word in the input field.
 Get synonyms: The app will display a list of synonyms fetched from the API.
+
 Example
 Input: "bright"
+
 Output: ["luminous", "radiant", "shiny", "vivid", "brilliant"]
 
 

@@ -10,8 +10,11 @@ Easy-to-use: Just type a word and get synonyms instantly.
 Project Structure:
 
 ├── index.html          # Main HTML file
+
 ├── style.css           # CSS file for styling
+
 ├── script.js           # JavaScript for API integration and functionality
+
 └── README.md           # Project documentation
 
 Installation and Setup

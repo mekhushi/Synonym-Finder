@@ -7,7 +7,7 @@ Responsive and clean user interface.
 Lightweight and fast, with no heavy dependencies.
 Easy-to-use: Just type a word and get synonyms instantly.
 
-Project Structure:
+#Project Structure:
 
 ├── index.html          # Main HTML file
 
@@ -17,21 +17,20 @@ Project Structure:
 
 └── README.md           # Project documentation
 
-Installation and Setup
+#Installation and Setup
 To run this project locally:
 
-Clone the repository:
+#Clone the repository:
 git clone https://github.com/mekhushi/synonym-finder.git
 
-Navigate to the project directory:
-
+#Navigate to the project directory:
 cd synonym-finder
 
-Open the project:
+#Open the project:
 
 Open index.html in any web browser to run the application.
 
-Usage:
+#Usage:
 
 Enter a word: Type any word in the input field.
 Get synonyms: The app will display a list of synonyms fetched from the API.
@@ -40,14 +39,14 @@ Input: "bright"
 Output: ["luminous", "radiant", "shiny", "vivid", "brilliant"]
 
 
-Dependencies:
+#Dependencies:
 
 HTML5: For the structure of the web application.
 CSS3: For styling and layout (responsive design included).
 JavaScript (Vanilla): For fetching data from the API and handling user input.
 API: Used to fetch synonym data.
 
-Contributing:
+#Contributing:
 
 Feel free to fork the project and submit a pull request if you want to contribute:
 Reporting bugs.

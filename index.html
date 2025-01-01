@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Synonym Finder</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.0/gsap.min.js"></script>
+</head>
+<body>
+  <div class="background-container">
+    <video autoplay loop muted class="background-video">
+      <source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">
+    </video>
+
+    <div class="overlay"></div>
+    <div class="container">
+      <h1>Synonym Finder</h1>
+      <div class="search-box">
+        <input type="text" id="wordInput" placeholder="Enter a word..." />
+        <button id="searchBtn">Find Synonyms</button>
+      </div>
+      <div id="synonymResults" class="results">
+        <h2>Synonyms:</h2>
+        <ul id="synonymList"></ul>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

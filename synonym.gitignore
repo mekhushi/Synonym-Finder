@@ -1,0 +1,32 @@
+# Node.js dependencies (if using npm or yarn)
+node_modules/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# IDE/Editor files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# npm logs
+npm-debug.log*
+
+# Environment variable files
+.env
+
+# Build and output directories (if using build tools like Webpack)
+dist/
+build/
+
+# Dependency directories for other tools (if applicable)
+bower_components/
+
+# Other temporary files
+*.swp
+*.swo
